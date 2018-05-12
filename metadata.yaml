@@ -1,0 +1,38 @@
+_repo: The-Mysterious-Rider_13937
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 13937-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Grey, Zane
+    aliases:
+    - Gray, Zane
+    - Gray, Pearl Zane
+    birthdate: 1872
+    deathdate: 1939
+    gutenberg_agent_id: '212'
+    url: http://www.gutenberg.org/2009/agents/212
+    wikipedia: http://en.wikipedia.org/wiki/Zane_Grey
+description: Rancher Bill Belllounds brought up Columbine as though she were his daughter.
+  Out of affection for her foster father, Columbine agrees to marry his son Jack,
+  who is a drunkard, gambler, coward, and thief. But she really loves the cowboy,
+  Wilson Moore. Then, the Mysterious Rider appears at the Belllounds ranch, a man
+  of middle age, gentle, kindly, but so formidable a gun fighter he has earned the
+  nickname Hell Bent Wade.
+gutenberg_bookshelf:
+- Bestsellers, American, 1895-1923
+- Western
+gutenberg_issued: '2004-11-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13937'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Western stories'
+title: The Mysterious Rider
+url: http://www.gutenberg.org/ebooks/13937
